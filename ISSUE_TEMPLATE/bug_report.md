@@ -4,7 +4,6 @@ about: Bir hata bildir
 title: "[Bug] "
 labels: bug
 assignees: ''
-
 ---
 
 **Hatanın açıklaması**
